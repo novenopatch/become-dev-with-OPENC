@@ -100,4 +100,5 @@ Le rythme est basé sur environ 8 à 12 heures d’apprentissage par semaine, ma
 
 ---
 
-Ce calendrier est flexible et peut être adapté à son rythme. Des mini-projets comme ceux proposés permettent aussi de rester motivé en mettant en pratique immédiatement ce qu’il apprend.
+Ce calendrier est flexible et peut être ajusté pour s'adapter à votre rythme.
+Des mini-projets comme ceux proposés permettent aussi de rester motivé en mettant en pratique immédiatement ce que vous allez apprendre.
